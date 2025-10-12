@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I’m Fatah Niati  
 
-<!--
-**niatifatah-art/niatifatah-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electronics Student | Autonomous Systems & AI Enthusiast**  
+💻 Currently learning step by step — exploring **Cybersecurity**, **AI**, and **Automation**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me  
+I’m building my foundation in technology — learning how machines think, how systems stay secure, and how everything connects together.  
+I share my journey and progress across projects, tools, and experiments.  
+
+---
+
+### 🧰 Tech Stack  
+- Python | Bash | Linux | SQL  
+- TensorFlow / PyTorch | Git  
+- Wireshark | Nmap | Burp  
+
+---
+
+### 🚀 Projects & Learning  
+I’ll be uploading my small projects, notes, and experiments here as I learn and grow in the world of **Cyber-AI Engineering**.
+
+---
+
+### 🌐 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fatah-niati-415591387)  
+- 🎥 [YouTube](https://www.youtube.com/@fatahniati)  
+
+---
+
+> _"Learning never stops — every line of code is a step forward."_  
