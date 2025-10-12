@@ -15,7 +15,7 @@
 - 🎓 Electronics Student — Autonomous Systems & AI Enthusiast  
 - 🌱 Currently learning step by step — exploring **Cybersecurity**, **AI**, and **Automation**  
 - ⚙️ Goal: Designing secure and intelligent systems that protect, learn, and adapt  
-- 🌍 Based in Mostaganem, Algeria  
+- 🌍 Based in Mascara, Algeria  
 - 🧠 Languages: Arabic (C2), English (C1), French (B1), Russian (A2)
 
 ---
