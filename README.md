@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=4000&pause=2000&color=1E90FF&center=true&vCenter=true&width=900&height=45&lines=Welcome+to+my+GitHub!;I'm+Fatah+Niati;Cybersecurity+%7C+AI+%7C+Automation+Student;Building+my+Tech+Journey+Step+by+Step" />
 </p>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,sql,tensorflow,pytorch,git,github,vscode" />
+</p>
 
 # 👋 Hi there, I’m Fatah Niati  
 
