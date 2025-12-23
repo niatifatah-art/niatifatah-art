@@ -1,39 +1,25 @@
-<h2 align="center">⚡ Electronics &amp; AI Student · Future Security Architect ⚡</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fatah%20Niati&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
+</p>
+
+<h2 align="center">⚡ Electronics & AI Student · Future Security Architect ⚡</h2>
 
 <p align="center">
   <b>Student & Self-learner | Exploring the intersection of AI and Security</b>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
-## Contact me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatah-niati-415591387/"><img src="https://img.shields.io/badge/LinkedIn-Fatah%20Niati-bb9af7?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Tech_With_Fatah"><img src="https://img.shields.io/badge/X-Tech__With__Fatah-111?logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@FatahNiati"><img src="https://img.shields.io/badge/YouTube-Tech%20with%20Fatah-7aa2f7?logo=youtube&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@FatahNiati"><img src="https://img.shields.io/badge/TikTok-FatahNiati-69C9D0?logo=tiktok&logoColor=white"></a>
+  <a href="mailto:niatifatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff69b4?logo=gmail&logoColor=white"></a>
+</p>
 
-<!-- SOCIAL BAR -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatah-niati-415591387/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fatah%20Niati-bb9af7?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/Tech_With_Fatah">
-    <img src="https://img.shields.io/badge/X-Tech__With__Fatah-111?logo=x&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@FatahNiati">
-    <img src="https://img.shields.io/badge/YouTube-Tech%20with%20Fatah-7aa2f7?logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@FatahNiati" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-FatahNiati-69C9D0?logo=tiktok&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/FatahNiati" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-FatahNiati-1877F2?logo=facebook&logoColor=white">
-  </a>
-  <a href="mailto:niatifatah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-ff69b4?logo=gmail&logoColor=white">
-  </a>
-</p>
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fatah%20Niati&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
-</p>
 ---
 
 ## 📌 About Me
@@ -42,48 +28,46 @@
 - 🏗️ **System:** Documenting every step in Academic-Hub, Skills-Lab, and Dev-Lab.
 - 🛠️ **Current Tools:** Mastering Python, Linux, and the C language.
 - 🧠 **Philosophy:** Discipline over motivation. Learning to build, not just to know.
+
 ---
 
 ## 🧠 My Focus Areas
 - 🛡️ **Foundations of Cybersecurity:** Networking, Linux, and Secure Coding.
 - ⚡ **Applied Electronics:** Understanding the hardware behind the AI.
 - 🐍 **Scripting & Automation:** Building efficient tools with Python and C.
-- 🤖 **AI Fundamentals:** Mathematics (Algebra & Analysis) and Logic.
-- 🐧 **Linux Environments:** Mastery of the Command Line and System Admin.
+- 🤖 **AI Fundamentals:** Mathematics and Logic.
+- 🐧 **Linux Environments:** Mastery of the Command Line.
+
 ---
 
 ## 📦 The Three Hubs
 <table align="center">
 <tr>
 <td align="center" width="300">
-<h3>📘 Academic-Hub</h3>
-University notes<br>
-Concept breakdowns<br>
-Structured thinking<br><br>
-<i>Knowledge Core</i>
+<h3><a href="https://github.com/niatifatah-art/Academic-Hub">📘 Academic-Hub</a></h3>
+University notes<br>Concept breakdowns<br><i>Knowledge Core</i>
 </td>
-
 <td align="center" width="300">
-<h3>🧪 Skills-Lab</h3>
-C · Python · Linux<br>
-Drills &amp; experiments<br>
-Mistakes included<br><br>
-<i>Training Ground</i>
+<h3><a href="https://github.com/niatifatah-art/Skills-Lab">🧪 Skills-Lab</a></h3>
+C · Python · Linux<br>Drills & experiments<br><i>Training Ground</i>
 </td>
-
 <td align="center" width="300">
-<h3>🛠 Dev-Lab</h3>
-Mini-projects<br>
-Applied learning<br>
-Real practice<br><br>
-<i>Execution Engine</i>
+<h3><a href="https://github.com/niatifatah-art/Dev-Lab">🛠 Dev-Lab</a></h3>
+Mini-projects<br>Applied learning<br><i>Execution Engine</i>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 Performance
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=niatifatah-art&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niatifatah-art&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -95,23 +79,8 @@ Real practice<br><br>
 
 ---
 
-## 🛠️ Languages &amp; Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode&theme=dark&perline=6" />
-</p>
-
----
-
-
-> “As the wise men say:"Keep your eyes on the prize. Discipline is the only bridge between goals and accomplishment!”
-
----
-
+> “Keep your eyes on the prize. Discipline is the only bridge between goals and accomplishment!”
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-    <img alt="PacMan Contribution Graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  </picture>
+  <img alt="PacMan" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
 </p>
