@@ -1,114 +1,154 @@
-<!-- PROFILE README for @niatifatah-art -->
-
-<h1 align="center">Hi, I’m Fatah 👋</h1>
-<p align="center">
-  Electronics & AI student — learning in public and building secure & intelligent systems.
-</p>
+<!-- ========================= -->
+<!--  FATAH NIATI — GOD TIER  -->
+<!-- ========================= -->
 
 <p align="center">
-  <a href="https://www.youtube.com/@FatahNiati"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Tech%20with%20Fatah-red?logo=youtube"></a>
-  <a href="https://www.linkedin.com/in/fatah-niati-415591387"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fatah%20Niati-blue?logo=linkedin"></a>
-  <a href="https://www.instagram.com/tech_with_fatah"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@tech__with__fatah-pink?logo=instagram"></a>
-  <a href="https://www.tiktok.com/@tech_with_fatah"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-@tech__with__fatah-000?logo=tiktok"></a>
-  <a href="https://x.com/Tech_With_Fatah"><img alt="X" src="https://img.shields.io/badge/X-@Tech__With__Fatah-111?logo=x"></a>
-  <a href="https://facebook.com/techwithfatah"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tech%20with%20Fatah-1877f2?logo=facebook&logoColor=white"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=260&section=header&text=Fatah%20Niati&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Security%20Specialist%20(in%20progress)&descAlignY=58&descSize=20" />
 </p>
 
----
+<h2 align="center">⚡ Digital Engineer · Security Mindset · Long Game Player ⚡</h2>
 
-### 🧭 About
-- 🎓 University student (Electronics & AI).  
-- 🛡️ Interested in **AI Security, Cybersecurity, Machine Learning, Automation**.  
-- 🌍 Languages: **Arabic (native/C2), English (C1), French (B1), Russian (A2)**.  
-- ✉️ Reach me: **niatifatah@gmail.com**
-
----
-
-### 🔥 What I’m learning now
-- **Python & Linux** foundations → scripting, files, bash.  
-- **Networking & Security** basics → Wireshark, Nmap, Burp.  
-- **ML/AI** fundamentals → NumPy/Pandas, classic ML, then NN.  
-- **AI Security** groundwork → NIST AI RMF, MITRE ATLAS, OWASP for LLMs.
-
----
-
-### 🗺️ Year Plan (12 months snapshot)
-<details>
-  <summary><b>Open timeline</b></summary>
-
-- **M1:** Python + Linux basics (scripts, SQLite mini-project)  
-- **M2:** Networking + Git/Web (GitHub Pages portfolio v1)  
-- **M3:** Security fundamentals + OWASP labs (SQLi/XSS/CSRF in DVWA)  
-- **M4:** Tools: Wireshark, Nmap, Burp (analysis mini-report)  
-- **M5:** Metasploit + SOC mini-lab (IDS/IPS + SIEM + incident report)  
-- **M6:** Applied Security Project (end-to-end lab + PDF report)  
-- **M7:** Math/ML foundations (Spam Detector project)  
-- **M8:** Advanced ML + DL (Malware Classifier)  
-- **M9:** Network Anomaly Detection (AI-IDS on NSL-KDD/CICIDS)  
-- **M10:** AI Security Fundamentals (NIST RMF, MITRE ATLAS, OWASP LLM)  
-- **M11:** Adversarial ML Attacks (FGSM, evasion, extraction, poisoning)  
-- **M12:** Final MVP (attacks + defenses, API/UI, pitch deck)
-</details>
-
----
-
-### 🧰 Tech Stack
-**Core:** Python • Bash • Linux • SQL  
-**Data/ML:** NumPy • Pandas • scikit-learn • (PyTorch / TensorFlow)  
-**Security/Labs:** Wireshark • Nmap • Burp Suite • DVWA • Metasploitable  
-**Versioning & Web:** Git • GitHub • GitHub Pages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-2C3E50?logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=white" />
-</p>
-
----
-
-### 📦 Featured Repos (to be filled as you build)
-- `PythonLinux-Basics` — scripts, notes, and SQLite mini-project  
-- `SecTools-Labs` — Wireshark/Nmap/Burp exercises + write-ups  
-- `ML-Basics-Projects` — NumPy/Pandas notebooks + Spam Detector  
-- `MalwareClassifier-DL` — DL classifier + results  
-- `AnomalyDetection-Network` — AI-IDS on NSL-KDD/CICIDS  
-- `AI-Security-Fundamentals` — NIST/MITRE/OWASP mappings & report  
-- `Adversarial-ML-Attacks` — FGSM, evasion, extraction, poisoning  
-- `AI-Cyber-MVP` — final attacks + defenses + simple API/UI
-
-> I’ll push code, notes, and reports as I progress. Stay tuned.
-
----
-
-### 🗓️ Content Rhythm
-- Shorts/Reels: **AI, Cyber, Tech Facts** (cross-posted)  
-- Dev logs & reports on GitHub + LinkedIn  
-- Occasional YouTube videos for milestones
-
----
-
-### 📊 Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=niatifatah-art&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=niatifatah-art&theme=tokyonight" />
+<b>Discipline • Self-Learning • Systems Thinking</b><br>
+Turning curiosity into capability, and fundamentals into mastery.
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
-### 📫 Social
-- YouTube: **@FatahNiati** — https://www.youtube.com/@FatahNiati  
-- LinkedIn: **Fatah Niati** — https://www.linkedin.com/in/fatah-niati-415591387  
-- Instagram: **@tech_with_fatah** — https://www.instagram.com/tech_with_fatah  
-- TikTok: **@tech_with_fatah** — https://www.tiktok.com/@tech_with_fatah  
-- X (Twitter): **@Tech_With_Fatah** — https://x.com/Tech_With_Fatah  
-- Facebook Page: **Tech with Fatah** — https://facebook.com/techwithfatah
+<!-- SOCIAL BAR -->
+<p align="center">
+  <a href="https://www.youtube.com/@FatahNiati"><img src="https://img.shields.io/badge/YouTube-Tech%20with%20Fatah-7aa2f7?logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fatah-niati-415591387"><img src="https://img.shields.io/badge/LinkedIn-Fatah%20Niati-bb9af7?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/tech_with_fatah"><img src="https://img.shields.io/badge/Instagram-tech__with__fatah-1a1b27?logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/Tech_With_Fatah"><img src="https://img.shields.io/badge/X-Tech__With__Fatah-111?logo=x&logoColor=white"></a>
+</p>
+
+<!-- SYSTEM STATUS -->
+<h2 align="center">🧾 SYSTEM STATUS</h2>
+
+<pre align="center">
+┌────────────────────────────────────────────┐
+│ SYSTEM        : ONLINE                     │
+│ USER          : Fatah                      │
+│ ROLE          : AI & Security (In Progress)│
+│ MODE          : Deep Focus                 │
+│ CURRENT TASK  : Python · Linux Foundations │
+│ DISCIPLINE    : ENABLED                    │
+│ MOTIVATION    : INTERNAL                   │
+└────────────────────────────────────────────┘
+</pre>
+
+<!-- ABOUT -->
+<h2 align="center">🧭 WHO AM I</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+<tr>
+<td align="left" width="60%">
+
+### 👤 Identity
+- 🎓 **Electronics & Artificial Intelligence Student**
+- 🔐 **Security-minded** — fascinated by how systems break and how to secure them
+- 🧠 **Fundamentals-first believer** (before frameworks, before hype)
+- ⚔️ *Security is not a skill — it's a mindset*
+- 🧭 Building myself through **discipline, self-learning, and consistency**
+
+</td>
+
+<td align="center" width="40%">
+
+<img src="https://skillicons.dev/icons?i=linux,python,c,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+📩 <b>Contact:</b> <a href="mailto:niatifatah@gmail.com">niatifatah@gmail.com</a>
+</p>
+
+
+<!-- TOOLKIT -->
+<h2 align="center">🧰 TECHNICAL TOOLKIT</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github&theme=dark&perline=5" />
+</p>
+
+<p align="center"><i>Only real tools. No decoration.</i></p>
+
+<!-- DASHBOARD -->
+<h2 align="center">📦 CORE SYSTEM MODULES</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+<h3>📘 Academic-Hub</h3>
+University notes<br>
+Concept breakdowns<br>
+Structured thinking<br><br>
+<i>Knowledge Core</i>
+</td>
+
+<td align="center" width="300">
+<h3>🧪 Skills-Lab</h3>
+C · Python · Linux<br>
+Drills & experiments<br>
+Mistakes included<br><br>
+<i>Training Ground</i>
+</td>
+
+<td align="center" width="300">
+<h3>🛠 Dev-Lab</h3>
+Mini-projects<br>
+Applied learning<br>
+Real practice<br><br>
+<i>Execution Engine</i>
+</td>
+</tr>
+</table>
+
+<!-- METRICS -->
+<h2 align="center">📊 PERFORMANCE METRICS</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=niatifatah-art&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niatifatah-art&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- ACTIVITY -->
+<h2 align="center">📈 ACTIVITY FLOW</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niatifatah-art&theme=tokyo-night&hide_border=true&color=7aa2f7&line=bb9af7"/>
+</p>
+
+<!-- TROPHIES -->
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niatifatah-art&theme=tokyonight&no-frame=true&column=6"/>
+</p>
+
+<!-- SNAKE -->
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niatifatah-art/niatifatah-art/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<!-- VISITS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niatifatah-art&label=PROFILE%20VIEWS&color=7aa2f7&style=flat"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+<i>“The man who moves a mountain begins by carrying away small stones.”</i><br>
+<b>This profile documents the long road to mastery.</b>
+</p>
