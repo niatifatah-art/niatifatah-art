@@ -1,4 +1,4 @@
-name: "GitHub Contribution Snake"
+name: GitHub Contribution Snake
 
 on:
   schedule:
@@ -13,11 +13,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: ./output/github-contribution-grid-snake-dark.svg
+          palette: github-dark
 
       - name: Commit & Push Snake
         run: |
