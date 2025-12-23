@@ -1,21 +1,13 @@
-<!-- ========================= -->
-<!--  FATAH NIATI — ELITE README -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=260&section=header&text=Fatah%20Niati&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20&amp;%20AI%20Student%20%7C%20Future%20Security%20Architect&descAlignY=58&descSize=20" />
-</p>
-
 <h2 align="center">⚡ Electronics &amp; AI Student · Future Security Architect ⚡</h2>
 
 <p align="center">
-<b>Discipline • Self-Learning • Systems Thinking</b><br>
-Turning curiosity into capability, and fundamentals into mastery.
+  <b>Student & Self-learner | Exploring the intersection of AI and Security</b>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
+
+## Contact me:
 
 <!-- SOCIAL BAR -->
 <p align="center">
@@ -38,26 +30,26 @@ Turning curiosity into capability, and fundamentals into mastery.
     <img src="https://img.shields.io/badge/Gmail-Contact-ff69b4?logo=gmail&logoColor=white">
   </a>
 </p>
-
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fatah%20Niati&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
+</p>
 ---
 
 ## 📌 About Me
-- 🎓 Electronics &amp; AI Student @ University of Sidi Bel Abbes
-- 🛡️ Focused on mastering AI Security &amp; Cybersecurity foundations
-- 🏗️ Organizing my journey through: Academic-Hub, Skills-Lab, and Dev-Lab
-- 🐍 Currently deep-diving into Python, Linux, and Secure Systems
-- 🚀 Building a discipline-first mindset to create future tech solutions
-
+- 🎓 **Academic:** Electronics & AI Student @ University of Sidi Bel Abbes.
+- 🎯 **Focus:** Building deep foundations in AI Security & Cybersecurity.
+- 🏗️ **System:** Documenting every step in Academic-Hub, Skills-Lab, and Dev-Lab.
+- 🛠️ **Current Tools:** Mastering Python, Linux, and the C language.
+- 🧠 **Philosophy:** Discipline over motivation. Learning to build, not just to know.
 ---
 
 ## 🧠 My Focus Areas
-- AI Security &amp; Defensive AI
-- Cybersecurity Fundamentals
-- Applied Machine Learning
-- Linux System Administration
-- Hardware-AI Integration (Electronics)
-- System Automation with Python
-
+- 🛡️ **Foundations of Cybersecurity:** Networking, Linux, and Secure Coding.
+- ⚡ **Applied Electronics:** Understanding the hardware behind the AI.
+- 🐍 **Scripting & Automation:** Building efficient tools with Python and C.
+- 🤖 **AI Fundamentals:** Mathematics (Algebra & Analysis) and Logic.
+- 🐧 **Linux Environments:** Mastery of the Command Line and System Admin.
 ---
 
 ## 📦 The Three Hubs
@@ -110,12 +102,12 @@ Real practice<br><br>
 
 ---
 
-## 💬 As the wise men say:"Keep your eyes on the prize. Discipline is the only bridge between goals and accomplishment!"
-> “The man who moves a mountain begins by carrying away small stones.”
+
+> “As the wise men say:"Keep your eyes on the prize. Discipline is the only bridge between goals and accomplishment!”
 
 ---
 
-## 😎
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
