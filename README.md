@@ -67,11 +67,15 @@ Mini-projects<br>Applied learning<br><i>Execution Engine</i>
 
 ---
 
-## 📊 Performance
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=niatifatah-art&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niatifatah-art&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niatifatah-art&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niatifatah-art&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niatifatah-art&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niatifatah-art&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niatifatah-art&theme=tokyonight&utcOffset=1)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niatifatah-art&theme=tokyonight&no-frame=true&column=6"/>
