@@ -23,20 +23,20 @@
 ---
 
 ## 📌 About Me
-- 🎓 **Academic:** Electronics & AI Student @ University of Sidi Bel Abbes.
-- 🎯 **Focus:** Building deep foundations in AI Security & Cybersecurity.
-- 🏗️ **System:** Documenting every step in Academic-Hub, Skills-Lab, and Dev-Lab.
-- 🛠️ **Current Tools:** Mastering Python, Linux, and the C language.
-- 🧠 **Philosophy:** Discipline over motivation. Learning to build, not just to know.
+-  **Academic:** Electronics & AI Student @ University of Sidi Bel Abbes.
+-  **Focus:** Building deep foundations in AI Security & Cybersecurity.
+-  **System:** Documenting every step in Academic-Hub, Skills-Lab, and Dev-Lab.
+-  **Current Tools:** Mastering Python, Linux, and the C language.
+-  **Philosophy:** Discipline over motivation. Learning to build, not just to know.
 
 ---
 
 ## 🧠 My Focus Areas
-- 🛡️ **Foundations of Cybersecurity:** Networking, Linux, and Secure Coding.
-- ⚡ **Applied Electronics:** Understanding the hardware behind the AI.
-- 🐍 **Scripting & Automation:** Building efficient tools with Python and C.
-- 🤖 **AI Fundamentals:** Mathematics and Logic.
-- 🐧 **Linux Environments:** Mastery of the Command Line.
+- **Foundations of Cybersecurity:** Networking, Linux, and Secure Coding.
+- **Applied Electronics:** Understanding the hardware behind the AI.
+- **Scripting & Automation:** Building efficient tools with Python and C.
+- **AI Fundamentals:** Mathematics and Logic.
+- **Linux Environments:** Mastery of the Command Line.
 
 ---
 
