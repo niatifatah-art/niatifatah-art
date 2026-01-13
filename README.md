@@ -13,11 +13,27 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatah-niati-415591387/"><img src="https://img.shields.io/badge/LinkedIn-Fatah%20Niati-bb9af7?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Tech_With_Fatah"><img src="https://img.shields.io/badge/X-Tech__With__Fatah-111?logo=x&logoColor=white"></a>
-  <a href="https://www.youtube.com/@FatahNiati"><img src="https://img.shields.io/badge/YouTube-Tech%20with%20Fatah-7aa2f7?logo=youtube&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@FatahNiati"><img src="https://img.shields.io/badge/TikTok-FatahNiati-69C9D0?logo=tiktok&logoColor=white"></a>
-  <a href="mailto:niatifatah@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff69b4?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fatah-niati-415591387/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatah%20Niati-bb9af7?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/Tech_With_Fatah">
+    <img src="https://img.shields.io/badge/X-Tech__With__Fatah-111?logo=x&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@FatahNiati">
+    <img src="https://img.shields.io/badge/YouTube-Tech%20with%20Fatah-7aa2f7?logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@FatahNiati">
+    <img src="https://img.shields.io/badge/TikTok-FatahNiati-69C9D0?logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=61582104313115">
+    <img src="https://img.shields.io/badge/Facebook-FatahNiati-1877F2?logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/tech_with_fatah/">
+    <img src="https://img.shields.io/badge/Instagram-Tech__With__Fatah-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:niatifatah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-ff69b4?logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
